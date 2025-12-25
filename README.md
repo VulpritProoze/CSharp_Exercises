@@ -7,12 +7,9 @@ This repository contains various **C# practice exercises** performed by me, Vulp
 ---
 
 ### Directory of Exercises
-> [!NOTE] 
-> Currently has very little content. Only have exercises from
-> [W3Resource](https://w3resource.com/csharp-exercises/).
-> But I will be adding more content as I keep on practicing.
 
 - [Data Types](#data-types)
+- [CodeWars](#codewars)
 
 ---
 
@@ -25,3 +22,10 @@ Exercises that involve **data type manipulation**, such as:
 - Converting `int` to `string` and vice versa  
 - Type checking and validation  
 - Preventing common issues like **null reference exceptions**
+
+## CodeWars
+
+**Directory:** `CodeWars/`
+
+**Description:**
+Exercises gathered from `http://codewars.com`.
